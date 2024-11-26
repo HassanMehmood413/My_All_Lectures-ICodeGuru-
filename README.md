@@ -8,3 +8,4 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 3:** [30_Minutes_recording_video](https://www.facebook.com/share/v/1D5VVofS7a/)
 - **Lecture 4:** [30_Minutes_recording_video](https://www.facebook.com/share/v/1D5VVofS7a/)
 - **Lecture 5:** [1_hour_recording_video](https://fb.watch/v-9akmdvJ1/)
+- **Lecture 6:** [1_hour_recording_video](https://www.facebook.com/share/v/1Ezqbt5YD1/)
