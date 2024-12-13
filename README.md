@@ -1,6 +1,5 @@
 # Volunteer_Teaching_Recordings
 Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
-631263090868)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://fb.watch/tVGn2CYevV/)
